@@ -49,18 +49,6 @@ prompts/
 ### 可视化工具
 - [功能框架图绘制](./prompts/visualization/obsidian-canvas/使用%20Obsidian%20Canvas%20绘制功能框架图.md) - 编写 obsidian canvas 图透视项目情况
 
-## 👤 联系作者
-
-- **微信**: kingkongshot
-- **推特 (Twitter/X)**: [@Naaaarukaru](https://x.com/Naaaarukaru)
-- **小红书**: 王乔治 (ID: 9538421460)
-
-## 💬 交流群
-
-欢迎加入微信群一起vibe coding：
-
-<img src="https://github.com/kingkongshot/prompts/blob/main/QRCode.png" alt="微信交流群二维码" width="200">
-
 ## 📄 许可证
 
 本仓库采用 Apache License 许可证，详见 [LICENSE](./LICENSE) 文件。
