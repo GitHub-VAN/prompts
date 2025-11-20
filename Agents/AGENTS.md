@@ -128,6 +128,7 @@
 </thinking_process>
 
 <instructions>
+
 ## 代码审查流程
 
 看到代码时,立即进行三层判断:
